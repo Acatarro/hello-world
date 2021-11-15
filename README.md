@@ -1,1 +1,8 @@
-This is for my projects!!
+Space Invaders Game
+
+Description:
+Space Invaders Clone in python
+
+Requirments:
+Python 
+Pygame
